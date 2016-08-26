@@ -67,7 +67,7 @@
             "id": "LI000003",
             "quantity": 3,
             "skuId": "SKU4864",
-            "skuName": "iPhone - 4865",
+            "skuName": "iPhone 6s",
             "version": 1
         },
         {
@@ -76,7 +76,7 @@
             "id": "LI000004",
             "quantity": 10,
             "skuId": "SKU4866",
-            "skuName": "iPhone - 4867",
+            "skuName": "iPhone 6s plus",
             "version": 1
         },
         {
@@ -85,7 +85,7 @@
             "id": "LI000006",
             "quantity": 2,
             "skuId": "SKU4870",
-            "skuName": "iPhone - 4871",
+            "skuName": "iPhone 5s",
             "version": 1
         },
         {
@@ -94,7 +94,7 @@
             "id": "LI000007",
             "quantity": 8,
             "skuId": "SKU4872",
-            "skuName": "iPhone - 4873",
+            "skuName": "iPhone SE",
             "version": 1
         },
         {
@@ -103,7 +103,7 @@
             "id": "LI000008",
             "quantity": 1,
             "skuId": "SKU4874",
-            "skuName": "iPhone - 4875",
+            "skuName": "iPhone 7 Pro",
             "version": 1
         },
         {
@@ -112,7 +112,7 @@
             "id": "LI000011",
             "quantity": 7,
             "skuId": "SKU4880",
-            "skuName": "iPhone - 4881",
+            "skuName": "iPhone 4",
             "version": 1
         },
         {
@@ -121,7 +121,7 @@
             "id": "LI000019",
             "quantity": 5,
             "skuId": "SKU4896",
-            "skuName": "iPhone - 4897",
+            "skuName": "iPhone 4S",
             "version": 1
         }
     ],
