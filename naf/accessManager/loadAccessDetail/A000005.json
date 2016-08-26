@@ -1,0 +1,22 @@
+{
+    "assignmentList": [
+        {
+            "assignedDate": "2018-06-06",
+            "id": "A000008",
+            "version": 1
+        },
+        {
+            "assignedDate": "2014-08-05",
+            "id": "A000014",
+            "version": 1
+        }
+    ],
+    "id": "A000005",
+    "role": {
+        "id": "R000003",
+        "roleName": "manager4642",
+        "version": 1
+    },
+    "roleName": "x manager4664",
+    "version": 1
+}

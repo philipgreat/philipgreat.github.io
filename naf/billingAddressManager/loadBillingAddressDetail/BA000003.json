@@ -1,0 +1,45 @@
+{
+    "city": "Century City - 4550",
+    "company": {
+        "founded": "2015-09-13",
+        "id": "BC000002",
+        "logo": "simple.jpg",
+        "name": "Aaxis - 4323",
+        "owner": "philip@aaxischina.com",
+        "priceList": "price99004324",
+        "rating": 200,
+        "version": 1
+    },
+    "country": "US",
+    "id": "BA000003",
+    "line1": "1900 AVE OF THE STARTS - 4548",
+    "line2": "Suite 555 - 4549",
+    "paymentGroupList": [
+        {
+            "cardNumber": "4111 1111 1111 - 4921",
+            "id": "PG000001",
+            "name": "visa card ending - 4920",
+            "version": 1
+        },
+        {
+            "cardNumber": "4111 1111 1111 - 4927",
+            "id": "PG000004",
+            "name": "visa card ending - 4926",
+            "version": 1
+        },
+        {
+            "cardNumber": "4111 1111 1111 - 4941",
+            "id": "PG000011",
+            "name": "visa card ending - 4940",
+            "version": 1
+        },
+        {
+            "cardNumber": "4111 1111 1111 - 4947",
+            "id": "PG000014",
+            "name": "visa card ending - 4946",
+            "version": 1
+        }
+    ],
+    "state": "PA",
+    "version": 1
+}

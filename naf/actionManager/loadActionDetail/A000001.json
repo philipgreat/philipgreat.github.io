@@ -1,0 +1,14 @@
+{
+    "bo": {
+        "id": "O000003",
+        "markAsDelete": true,
+        "title": "House Buiding - 4684",
+        "totalAmount": 569852454.51,
+        "type": "INVOICE",
+        "version": 1
+    },
+    "id": "A000001",
+    "internalName": "load4961",
+    "name": "ACTION4960",
+    "version": 1
+}

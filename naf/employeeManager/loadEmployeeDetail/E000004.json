@@ -1,0 +1,35 @@
+{
+    "assignmentList": [
+        {
+            "assignedDate": "2015-10-08",
+            "id": "A000005",
+            "version": 1
+        },
+        {
+            "assignedDate": "2015-01-31",
+            "id": "A000007",
+            "version": 1
+        },
+        {
+            "assignedDate": "2015-07-31",
+            "id": "A000017",
+            "version": 1
+        }
+    ],
+    "cellPhone": "13878786655",
+    "company": {
+        "founded": "2014-01-08",
+        "id": "BC000001",
+        "logo": "simple.jpg",
+        "name": "Aaxis - 4320",
+        "owner": "philip@aaxischina.com",
+        "priceList": "price99004321",
+        "rating": 10,
+        "version": 1
+    },
+    "email": "philip@aaxischina.com",
+    "id": "E000004",
+    "name": "Philip4623",
+    "passwd": "*******",
+    "version": 1
+}

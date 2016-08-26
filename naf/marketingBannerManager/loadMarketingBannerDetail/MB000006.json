@@ -1,0 +1,11 @@
+{
+    "id": "MB000006",
+    "image": "long.jpg",
+    "link": "/5345",
+    "parent": {
+        "id": "ML000005",
+        "title": "Marketing Landing Page5324",
+        "version": 1
+    },
+    "version": 1
+}

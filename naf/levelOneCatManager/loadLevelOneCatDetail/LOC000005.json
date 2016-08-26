@@ -1,0 +1,53 @@
+{
+    "catalog": {
+        "displayName": "Cloth5462",
+        "id": "C000002",
+        "sellerId": "SC0000015463",
+        "version": 1
+    },
+    "displayName": "Level One Cat5504",
+    "id": "LOC000005",
+    "levelTwoCatList": [
+        {
+            "displayName": "Level Two Cat5523",
+            "id": "LTC000004",
+            "version": 1
+        },
+        {
+            "displayName": "Level Two Cat5524",
+            "id": "LTC000005",
+            "version": 1
+        },
+        {
+            "displayName": "Level Two Cat5525",
+            "id": "LTC000006",
+            "version": 1
+        },
+        {
+            "displayName": "Level Two Cat5530",
+            "id": "LTC000011",
+            "version": 1
+        },
+        {
+            "displayName": "Level Two Cat5533",
+            "id": "LTC000014",
+            "version": 1
+        },
+        {
+            "displayName": "Level Two Cat5534",
+            "id": "LTC000015",
+            "version": 1
+        },
+        {
+            "displayName": "Level Two Cat5537",
+            "id": "LTC000018",
+            "version": 1
+        },
+        {
+            "displayName": "Level Two Cat5538",
+            "id": "LTC000019",
+            "version": 1
+        }
+    ],
+    "version": 1
+}

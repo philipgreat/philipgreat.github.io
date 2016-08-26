@@ -1,0 +1,58 @@
+{
+    "brandName": "Telsa Auto5724",
+    "description": "The brand a great that has Roadester, Model S and Model X, Model 3 is in development5725",
+    "id": "B000003",
+    "logo": "logo.jpg",
+    "productList": [
+        {
+            "description": "The brand a great that has Roadester, Model S and Model X, Model 3 is in development5625",
+            "displayName": "Jeans5623",
+            "id": "P000002",
+            "origin": "China",
+            "version": 1
+        },
+        {
+            "description": "The brand a great that has Roadester, Model S and Model X, Model 3 is in development5631",
+            "displayName": "Jeans5629",
+            "id": "P000004",
+            "origin": "Japan",
+            "version": 1
+        },
+        {
+            "description": "The brand a great that has Roadester, Model S and Model X, Model 3 is in development5634",
+            "displayName": "Jeans5632",
+            "id": "P000005",
+            "origin": "US",
+            "version": 1
+        },
+        {
+            "description": "The brand a great that has Roadester, Model S and Model X, Model 3 is in development5655",
+            "displayName": "Jeans5653",
+            "id": "P000012",
+            "origin": "Japan",
+            "version": 1
+        },
+        {
+            "description": "The brand a great that has Roadester, Model S and Model X, Model 3 is in development5661",
+            "displayName": "Jeans5659",
+            "id": "P000014",
+            "origin": "China",
+            "version": 1
+        },
+        {
+            "description": "The brand a great that has Roadester, Model S and Model X, Model 3 is in development5673",
+            "displayName": "Jeans5671",
+            "id": "P000018",
+            "origin": "China",
+            "version": 1
+        },
+        {
+            "description": "The brand a great that has Roadester, Model S and Model X, Model 3 is in development5679",
+            "displayName": "Jeans5677",
+            "id": "P000020",
+            "origin": "Japan",
+            "version": 1
+        }
+    ],
+    "version": 1
+}

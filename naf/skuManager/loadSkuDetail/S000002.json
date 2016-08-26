@@ -1,0 +1,124 @@
+{
+    "active": true,
+    "contractPriceList": [
+        {
+            "contractId": "C0000015004",
+            "id": "CP000005",
+            "price": 79,
+            "version": 1
+        },
+        {
+            "contractId": "C0000015017",
+            "id": "CP000018",
+            "price": 37,
+            "version": 1
+        },
+        {
+            "contractId": "C0000015018",
+            "id": "CP000019",
+            "price": 86,
+            "version": 1
+        }
+    ],
+    "displayName": "Jeans - Large5682",
+    "fixRiceSkuPromotionList": [
+        {
+            "id": "FRSP000004",
+            "priceTo": 804.62,
+            "rules": "id in (100,200)5183",
+            "version": 1
+        },
+        {
+            "id": "FRSP000012",
+            "priceTo": 720.76,
+            "rules": "id in (100,200)5191",
+            "version": 1
+        },
+        {
+            "id": "FRSP000017",
+            "priceTo": 966.92,
+            "rules": "id in (100,200)5196",
+            "version": 1
+        },
+        {
+            "id": "FRSP000020",
+            "priceTo": 993.27,
+            "rules": "id in (100,200)5199",
+            "version": 1
+        }
+    ],
+    "id": "S000002",
+    "inventoryList": [
+        {
+            "backorderable": 1,
+            "id": "I000006",
+            "preorderable": 745,
+            "stockLevel": 288667,
+            "version": 1
+        },
+        {
+            "backorderable": 3,
+            "id": "I000012",
+            "preorderable": 1986,
+            "stockLevel": 294642,
+            "version": 1
+        },
+        {
+            "backorderable": 20,
+            "id": "I000015",
+            "preorderable": 537,
+            "stockLevel": 795950,
+            "version": 1
+        },
+        {
+            "backorderable": 14,
+            "id": "I000017",
+            "preorderable": 106,
+            "stockLevel": 257184,
+            "version": 1
+        },
+        {
+            "backorderable": 6,
+            "id": "I000020",
+            "preorderable": 1564,
+            "stockLevel": 417988,
+            "version": 1
+        }
+    ],
+    "product": {
+        "description": "The brand a great that has Roadester, Model S and Model X, Model 3 is in development5628",
+        "displayName": "Jeans5626",
+        "id": "P000003",
+        "origin": "French",
+        "version": 1
+    },
+    "size": "Small",
+    "universalPriceList": [
+        {
+            "id": "UP000006",
+            "price": 706,
+            "version": 1
+        },
+        {
+            "id": "UP000010",
+            "price": 198,
+            "version": 1
+        },
+        {
+            "id": "UP000011",
+            "price": 406,
+            "version": 1
+        },
+        {
+            "id": "UP000015",
+            "price": 894,
+            "version": 1
+        },
+        {
+            "id": "UP000019",
+            "price": 55,
+            "version": 1
+        }
+    ],
+    "version": 1
+}

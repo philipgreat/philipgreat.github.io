@@ -1,0 +1,23 @@
+{
+    "address": {
+        "city": "Century City - 4466",
+        "country": "US",
+        "id": "SA000002",
+        "line1": "1900 AVE OF THE STARTS - 4464",
+        "line2": "Suite 555 - 4465",
+        "state": "PA",
+        "version": 1
+    },
+    "amount": 4.96,
+    "bizOrder": {
+        "id": "O000001",
+        "markAsDelete": true,
+        "title": "House Buiding - 4680",
+        "totalAmount": 1488789139.08,
+        "type": "QUOTE",
+        "version": 1
+    },
+    "id": "SG000020",
+    "name": "shipping to this address4919",
+    "version": 1
+}

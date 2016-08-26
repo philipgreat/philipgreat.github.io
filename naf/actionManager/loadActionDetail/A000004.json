@@ -1,0 +1,14 @@
+{
+    "bo": {
+        "id": "O000005",
+        "markAsDelete": true,
+        "title": "House Buiding - 4688",
+        "totalAmount": 285604190.96,
+        "type": "ORDER",
+        "version": 1
+    },
+    "id": "A000004",
+    "internalName": "load4967",
+    "name": "ACTION4966",
+    "version": 1
+}

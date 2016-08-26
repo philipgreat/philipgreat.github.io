@@ -1,0 +1,129 @@
+{
+    "contractText": "x.doc",
+    "creditAccountList": [
+        {
+            "authorized": 85992.53,
+            "id": "CA000001",
+            "name": "Main Account Payable - 4440",
+            "remain": 43412.1,
+            "version": 1
+        },
+        {
+            "authorized": 7234.31,
+            "id": "CA000004",
+            "name": "Main Account Payable - 4443",
+            "remain": 12629.03,
+            "version": 1
+        },
+        {
+            "authorized": 38114.26,
+            "id": "CA000016",
+            "name": "Main Account Payable - 4455",
+            "remain": 51509.55,
+            "version": 1
+        },
+        {
+            "authorized": 12701.99,
+            "id": "CA000019",
+            "name": "Main Account Payable - 4458",
+            "remain": 74353.29,
+            "version": 1
+        }
+    ],
+    "custSvcRepList": [
+        {
+            "email": "pzhang@aaxischina.com",
+            "id": "CSR000004",
+            "passwd": "*******",
+            "version": 1
+        },
+        {
+            "email": "pzhang@aaxischina.com",
+            "id": "CSR000005",
+            "passwd": "*******",
+            "version": 1
+        },
+        {
+            "email": "pzhang@aaxischina.com",
+            "id": "CSR000008",
+            "passwd": "*******",
+            "version": 1
+        },
+        {
+            "email": "pzhang@aaxischina.com",
+            "id": "CSR000009",
+            "passwd": "*******",
+            "version": 1
+        },
+        {
+            "email": "pzhang@aaxischina.com",
+            "id": "CSR000018",
+            "passwd": "*******",
+            "version": 1
+        },
+        {
+            "email": "pzhang@aaxischina.com",
+            "id": "CSR000019",
+            "passwd": "*******",
+            "version": 1
+        }
+    ],
+    "id": "SC000003",
+    "logo": "simple.jpg",
+    "name": "Snack Co. 4382",
+    "orderList": [
+        {
+            "id": "O000002",
+            "markAsDelete": true,
+            "title": "House Buiding - 4682",
+            "totalAmount": 1796923467.64,
+            "type": "ORDER",
+            "version": 1
+        },
+        {
+            "id": "O000003",
+            "markAsDelete": true,
+            "title": "House Buiding - 4684",
+            "totalAmount": 569852454.51,
+            "type": "INVOICE",
+            "version": 1
+        },
+        {
+            "id": "O000018",
+            "markAsDelete": true,
+            "title": "House Buiding - 4714",
+            "totalAmount": 1561462077.63,
+            "type": "INVOICE",
+            "version": 1
+        }
+    ],
+    "owner": "philip@aaxischina.com",
+    "profitCenterList": [
+        {
+            "id": "PC000006",
+            "name": "Cost Center - HR4425",
+            "version": 1
+        },
+        {
+            "id": "PC000007",
+            "name": "Cost Center - HR4426",
+            "version": 1
+        },
+        {
+            "id": "PC000009",
+            "name": "Cost Center - HR4428",
+            "version": 1
+        },
+        {
+            "id": "PC000012",
+            "name": "Cost Center - HR4431",
+            "version": 1
+        },
+        {
+            "id": "PC000014",
+            "name": "Cost Center - HR4433",
+            "version": 1
+        }
+    ],
+    "version": 1
+}

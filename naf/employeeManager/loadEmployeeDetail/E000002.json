@@ -1,0 +1,45 @@
+{
+    "assignmentList": [
+        {
+            "assignedDate": "2014-05-17",
+            "id": "A000004",
+            "version": 1
+        },
+        {
+            "assignedDate": "2016-11-28",
+            "id": "A000006",
+            "version": 1
+        },
+        {
+            "assignedDate": "2018-04-11",
+            "id": "A000012",
+            "version": 1
+        },
+        {
+            "assignedDate": "2018-07-29",
+            "id": "A000015",
+            "version": 1
+        },
+        {
+            "assignedDate": "2016-12-04",
+            "id": "A000016",
+            "version": 1
+        }
+    ],
+    "cellPhone": "13878786655",
+    "company": {
+        "founded": "2015-06-17",
+        "id": "BC000005",
+        "logo": "simple.jpg",
+        "name": "Aaxis - 4332",
+        "owner": "philip@aaxischina.com",
+        "priceList": "price99004333",
+        "rating": 10,
+        "version": 1
+    },
+    "email": "philip@aaxischina.com",
+    "id": "E000002",
+    "name": "Philip4621",
+    "passwd": "*******",
+    "version": 1
+}

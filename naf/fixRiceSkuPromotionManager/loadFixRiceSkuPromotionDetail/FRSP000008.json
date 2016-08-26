@@ -1,0 +1,13 @@
+{
+    "id": "FRSP000008",
+    "priceTo": 40.01,
+    "rules": "id in (100,200)5187",
+    "sku": {
+        "active": true,
+        "displayName": "Jeans - Large5686",
+        "id": "S000004",
+        "size": "Mediam",
+        "version": 1
+    },
+    "version": 1
+}

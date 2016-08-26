@@ -1,0 +1,23 @@
+{
+    "billingAddress": {
+        "city": "Century City - 4558",
+        "country": "US",
+        "id": "BA000005",
+        "line1": "1900 AVE OF THE STARTS - 4556",
+        "line2": "Suite 555 - 4557",
+        "state": "LA",
+        "version": 1
+    },
+    "bizOrder": {
+        "id": "O000005",
+        "markAsDelete": true,
+        "title": "House Buiding - 4688",
+        "totalAmount": 285604190.96,
+        "type": "ORDER",
+        "version": 1
+    },
+    "cardNumber": "4111 1111 1111 - 4929",
+    "id": "PG000005",
+    "name": "visa card ending - 4928",
+    "version": 1
+}

@@ -1,0 +1,101 @@
+{
+    "active": true,
+    "contractPriceList": [
+        {
+            "contractId": "C0000015003",
+            "id": "CP000004",
+            "price": 75,
+            "version": 1
+        },
+        {
+            "contractId": "C0000015007",
+            "id": "CP000008",
+            "price": 85,
+            "version": 1
+        },
+        {
+            "contractId": "C0000015010",
+            "id": "CP000011",
+            "price": 61,
+            "version": 1
+        },
+        {
+            "contractId": "C0000015015",
+            "id": "CP000016",
+            "price": 98,
+            "version": 1
+        },
+        {
+            "contractId": "C0000015016",
+            "id": "CP000017",
+            "price": 55,
+            "version": 1
+        }
+    ],
+    "displayName": "Jeans - Large5684",
+    "fixRiceSkuPromotionList": [
+        {
+            "id": "FRSP000002",
+            "priceTo": 931.3,
+            "rules": "id in (100,200)5181",
+            "version": 1
+        },
+        {
+            "id": "FRSP000007",
+            "priceTo": 410.16,
+            "rules": "id in (100,200)5186",
+            "version": 1
+        },
+        {
+            "id": "FRSP000009",
+            "priceTo": 531.33,
+            "rules": "id in (100,200)5188",
+            "version": 1
+        }
+    ],
+    "id": "S000003",
+    "inventoryList": [
+        {
+            "backorderable": 19,
+            "id": "I000005",
+            "preorderable": 179,
+            "stockLevel": 328691,
+            "version": 1
+        },
+        {
+            "backorderable": 14,
+            "id": "I000009",
+            "preorderable": 1329,
+            "stockLevel": 971166,
+            "version": 1
+        },
+        {
+            "backorderable": 1,
+            "id": "I000011",
+            "preorderable": 246,
+            "stockLevel": 645410,
+            "version": 1
+        }
+    ],
+    "product": {
+        "description": "The brand a great that has Roadester, Model S and Model X, Model 3 is in development5622",
+        "displayName": "Jeans5620",
+        "id": "P000001",
+        "origin": "US",
+        "version": 1
+    },
+    "size": "Large",
+    "universalPriceList": [
+        {
+            "id": "UP000007",
+            "price": 610,
+            "version": 1
+        },
+        {
+            "id": "UP000008",
+            "price": 539,
+            "version": 1
+        }
+    ],
+    "version": 1
+}

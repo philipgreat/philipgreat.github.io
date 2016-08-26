@@ -1,0 +1,55 @@
+{
+    "id": "ML000004",
+    "marketingBannerList": [
+        {
+            "id": "MB000001",
+            "image": "long.jpg",
+            "link": "/5340",
+            "version": 1
+        },
+        {
+            "id": "MB000002",
+            "image": "long.jpg",
+            "link": "/5341",
+            "version": 1
+        },
+        {
+            "id": "MB000014",
+            "image": "long.jpg",
+            "link": "/5353",
+            "version": 1
+        },
+        {
+            "id": "MB000015",
+            "image": "long.jpg",
+            "link": "/5354",
+            "version": 1
+        },
+        {
+            "id": "MB000016",
+            "image": "long.jpg",
+            "link": "/5355",
+            "version": 1
+        },
+        {
+            "id": "MB000017",
+            "image": "long.jpg",
+            "link": "/5356",
+            "version": 1
+        }
+    ],
+    "sellerSiteList": [
+        {
+            "id": "SS000009",
+            "siteId": "www.clienta.com5268",
+            "version": 1
+        },
+        {
+            "id": "SS000011",
+            "siteId": "www.clienta.com5270",
+            "version": 1
+        }
+    ],
+    "title": "Marketing Landing Page5323",
+    "version": 1
+}

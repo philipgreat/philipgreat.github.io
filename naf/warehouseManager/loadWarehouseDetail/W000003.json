@@ -1,0 +1,51 @@
+{
+    "displayName": "LA Century City Warehouse5206",
+    "id": "W000003",
+    "inventoryList": [
+        {
+            "backorderable": 19,
+            "id": "I000003",
+            "preorderable": 404,
+            "stockLevel": 573008,
+            "version": 1
+        },
+        {
+            "backorderable": 19,
+            "id": "I000004",
+            "preorderable": 1281,
+            "stockLevel": 835911,
+            "version": 1
+        },
+        {
+            "backorderable": 1,
+            "id": "I000006",
+            "preorderable": 745,
+            "stockLevel": 288667,
+            "version": 1
+        },
+        {
+            "backorderable": 3,
+            "id": "I000012",
+            "preorderable": 1986,
+            "stockLevel": 294642,
+            "version": 1
+        },
+        {
+            "backorderable": 12,
+            "id": "I000016",
+            "preorderable": 843,
+            "stockLevel": 205842,
+            "version": 1
+        },
+        {
+            "backorderable": 6,
+            "id": "I000020",
+            "preorderable": 1564,
+            "stockLevel": 417988,
+            "version": 1
+        }
+    ],
+    "location": "1900 AVE OF THE STARS - TOO EXPENSIVE5207",
+    "owner": "duc@aaxiscommerce.com5208",
+    "version": 1
+}

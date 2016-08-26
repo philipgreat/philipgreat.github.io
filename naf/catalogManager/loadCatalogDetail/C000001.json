@@ -1,0 +1,35 @@
+{
+    "displayName": "Cloth5460",
+    "id": "C000001",
+    "levelOneCatList": [
+        {
+            "displayName": "Level One Cat5500",
+            "id": "LOC000001",
+            "version": 1
+        },
+        {
+            "displayName": "Level One Cat5511",
+            "id": "LOC000012",
+            "version": 1
+        },
+        {
+            "displayName": "Level One Cat5512",
+            "id": "LOC000013",
+            "version": 1
+        }
+    ],
+    "sellerId": "SC0000015461",
+    "sellerSiteList": [
+        {
+            "id": "SS000011",
+            "siteId": "www.clienta.com5270",
+            "version": 1
+        },
+        {
+            "id": "SS000016",
+            "siteId": "www.clienta.com5275",
+            "version": 1
+        }
+    ],
+    "version": 1
+}

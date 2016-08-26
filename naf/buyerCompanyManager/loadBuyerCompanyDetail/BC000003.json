@@ -1,0 +1,180 @@
+{
+    "billingAddressList": [
+        {
+            "city": "Century City - 4562",
+            "country": "US",
+            "id": "BA000006",
+            "line1": "1900 AVE OF THE STARTS - 4560",
+            "line2": "Suite 555 - 4561",
+            "state": "PA",
+            "version": 1
+        },
+        {
+            "city": "Century City - 4570",
+            "country": "US",
+            "id": "BA000008",
+            "line1": "1900 AVE OF THE STARTS - 4568",
+            "line2": "Suite 555 - 4569",
+            "state": "LA",
+            "version": 1
+        },
+        {
+            "city": "Century City - 4606",
+            "country": "US",
+            "id": "BA000017",
+            "line1": "1900 AVE OF THE STARTS - 4604",
+            "line2": "Suite 555 - 4605",
+            "state": "LA",
+            "version": 1
+        },
+        {
+            "city": "Century City - 4618",
+            "country": "US",
+            "id": "BA000020",
+            "line1": "1900 AVE OF THE STARTS - 4616",
+            "line2": "Suite 555 - 4617",
+            "state": "LA",
+            "version": 1
+        }
+    ],
+    "costCenterList": [
+        {
+            "id": "CC000008",
+            "name": "Cost Center - HR4407",
+            "password": "*********",
+            "version": 1
+        },
+        {
+            "id": "CC000014",
+            "name": "Cost Center - HR4413",
+            "password": "*********",
+            "version": 1
+        },
+        {
+            "id": "CC000015",
+            "name": "Cost Center - HR4414",
+            "password": "*********",
+            "version": 1
+        },
+        {
+            "id": "CC000016",
+            "name": "Cost Center - HR4415",
+            "password": "*********",
+            "version": 1
+        }
+    ],
+    "creditAccountList": [
+        {
+            "authorized": 85992.53,
+            "id": "CA000001",
+            "name": "Main Account Payable - 4440",
+            "remain": 43412.1,
+            "version": 1
+        },
+        {
+            "authorized": 46.24,
+            "id": "CA000007",
+            "name": "Main Account Payable - 4446",
+            "remain": 99536.4,
+            "version": 1
+        },
+        {
+            "authorized": 51691.35,
+            "id": "CA000008",
+            "name": "Main Account Payable - 4447",
+            "remain": 44790.9,
+            "version": 1
+        },
+        {
+            "authorized": 17892.68,
+            "id": "CA000015",
+            "name": "Main Account Payable - 4454",
+            "remain": 67380.71,
+            "version": 1
+        }
+    ],
+    "employeeList": [
+        {
+            "cellPhone": "13878786655",
+            "email": "philip@aaxischina.com",
+            "id": "E000007",
+            "name": "Philip4626",
+            "passwd": "*******",
+            "version": 1
+        },
+        {
+            "cellPhone": "13878786655",
+            "email": "philip@aaxischina.com",
+            "id": "E000008",
+            "name": "Philip4627",
+            "passwd": "*******",
+            "version": 1
+        },
+        {
+            "cellPhone": "13878786655",
+            "email": "philip@aaxischina.com",
+            "id": "E000017",
+            "name": "Philip4636",
+            "passwd": "*******",
+            "version": 1
+        }
+    ],
+    "founded": "2015-05-19",
+    "id": "BC000003",
+    "logo": "simple.jpg",
+    "name": "Aaxis - 4326",
+    "orderList": [
+        {
+            "id": "O000004",
+            "markAsDelete": true,
+            "title": "House Buiding - 4686",
+            "totalAmount": 2843498756.07,
+            "type": "QUOTE",
+            "version": 1
+        },
+        {
+            "id": "O000005",
+            "markAsDelete": true,
+            "title": "House Buiding - 4688",
+            "totalAmount": 285604190.96,
+            "type": "ORDER",
+            "version": 1
+        },
+        {
+            "id": "O000013",
+            "markAsDelete": true,
+            "title": "House Buiding - 4704",
+            "totalAmount": 1968601781.63,
+            "type": "QUOTE",
+            "version": 1
+        },
+        {
+            "id": "O000016",
+            "markAsDelete": true,
+            "title": "House Buiding - 4710",
+            "totalAmount": 1404775307.41,
+            "type": "QUOTE",
+            "version": 1
+        },
+        {
+            "id": "O000018",
+            "markAsDelete": true,
+            "title": "House Buiding - 4714",
+            "totalAmount": 1561462077.63,
+            "type": "INVOICE",
+            "version": 1
+        },
+        {
+            "id": "O000020",
+            "markAsDelete": true,
+            "title": "House Buiding - 4718",
+            "totalAmount": 1667629411.85,
+            "type": "ORDER",
+            "version": 1
+        }
+    ],
+    "owner": "philip@aaxischina.com",
+    "priceList": "price99004327",
+    "rating": 10,
+    "version": 1
+}

@@ -1,0 +1,37 @@
+{
+    "displayName": "Level Two Cat5520",
+    "id": "LTC000001",
+    "levelThreeCatList": [
+        {
+            "displayName": "Level Three Cat5540",
+            "id": "LTC000001",
+            "version": 1
+        },
+        {
+            "displayName": "Level Three Cat5546",
+            "id": "LTC000007",
+            "version": 1
+        },
+        {
+            "displayName": "Level Three Cat5552",
+            "id": "LTC000013",
+            "version": 1
+        },
+        {
+            "displayName": "Level Three Cat5556",
+            "id": "LTC000017",
+            "version": 1
+        },
+        {
+            "displayName": "Level Three Cat5559",
+            "id": "LTC000020",
+            "version": 1
+        }
+    ],
+    "parentCat": {
+        "displayName": "Level One Cat5501",
+        "id": "LOC000002",
+        "version": 1
+    },
+    "version": 1
+}

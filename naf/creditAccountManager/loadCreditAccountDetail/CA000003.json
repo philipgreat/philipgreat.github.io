@@ -1,0 +1,25 @@
+{
+    "authorized": 27642.59,
+    "buyer": {
+        "founded": "2015-09-13",
+        "id": "BC000002",
+        "logo": "simple.jpg",
+        "name": "Aaxis - 4323",
+        "owner": "philip@aaxischina.com",
+        "priceList": "price99004324",
+        "rating": 200,
+        "version": 1
+    },
+    "id": "CA000003",
+    "name": "Main Account Payable - 4442",
+    "remain": 34135.43,
+    "seller": {
+        "contractText": "x.doc",
+        "id": "SC000002",
+        "logo": "simple.jpg",
+        "name": "Snack Co. 4381",
+        "owner": "philip@aaxischina.com",
+        "version": 1
+    },
+    "version": 1
+}

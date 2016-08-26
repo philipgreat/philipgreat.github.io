@@ -1,0 +1,27 @@
+{
+    "displayName": "Level Four Cat5564",
+    "id": "LFC000005",
+    "levelFiveCatList": [
+        {
+            "displayName": "Level Five Cat5582",
+            "id": "LFC000003",
+            "version": 1
+        },
+        {
+            "displayName": "Level Five Cat5594",
+            "id": "LFC000015",
+            "version": 1
+        },
+        {
+            "displayName": "Level Five Cat5596",
+            "id": "LFC000017",
+            "version": 1
+        }
+    ],
+    "parentCat": {
+        "displayName": "Level Three Cat5544",
+        "id": "LTC000005",
+        "version": 1
+    },
+    "version": 1
+}

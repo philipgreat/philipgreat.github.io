@@ -1,0 +1,13 @@
+{
+    "id": "FRSP000020",
+    "priceTo": 993.27,
+    "rules": "id in (100,200)5199",
+    "sku": {
+        "active": true,
+        "displayName": "Jeans - Large5682",
+        "id": "S000002",
+        "size": "Small",
+        "version": 1
+    },
+    "version": 1
+}

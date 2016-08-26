@@ -1,0 +1,18 @@
+{
+    "access": {
+        "id": "A000001",
+        "roleName": "x manager4660",
+        "version": 1
+    },
+    "assignedDate": "2018-10-19",
+    "id": "A000003",
+    "user": {
+        "cellPhone": "13878786655",
+        "email": "philip@aaxischina.com",
+        "id": "E000001",
+        "name": "Philip4620",
+        "passwd": "*******",
+        "version": 1
+    },
+    "version": 1
+}

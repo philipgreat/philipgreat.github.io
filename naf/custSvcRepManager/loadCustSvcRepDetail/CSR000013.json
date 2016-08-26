@@ -1,0 +1,19 @@
+{
+    "company": {
+        "contractText": "x.doc",
+        "id": "SC000005",
+        "logo": "simple.jpg",
+        "name": "Snack Co. 4384",
+        "owner": "philip@aaxischina.com",
+        "version": 1
+    },
+    "email": "pzhang@aaxischina.com",
+    "id": "CSR000013",
+    "passwd": "*******",
+    "role": {
+        "id": "R000004",
+        "roleName": "manager4643",
+        "version": 1
+    },
+    "version": 1
+}

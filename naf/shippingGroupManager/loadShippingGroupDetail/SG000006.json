@@ -1,0 +1,23 @@
+{
+    "address": {
+        "city": "Century City - 4470",
+        "country": "US",
+        "id": "SA000003",
+        "line1": "1900 AVE OF THE STARTS - 4468",
+        "line2": "Suite 555 - 4469",
+        "state": "VA",
+        "version": 1
+    },
+    "amount": 0.8,
+    "bizOrder": {
+        "id": "O000005",
+        "markAsDelete": true,
+        "title": "House Buiding - 4688",
+        "totalAmount": 285604190.96,
+        "type": "ORDER",
+        "version": 1
+    },
+    "id": "SG000006",
+    "name": "shipping to this address4905",
+    "version": 1
+}

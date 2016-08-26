@@ -1,0 +1,110 @@
+{
+    "active": true,
+    "contractPriceList": [
+        {
+            "contractId": "C0000015001",
+            "id": "CP000002",
+            "price": 38,
+            "version": 1
+        },
+        {
+            "contractId": "C0000015002",
+            "id": "CP000003",
+            "price": 61,
+            "version": 1
+        },
+        {
+            "contractId": "C0000015008",
+            "id": "CP000009",
+            "price": 44,
+            "version": 1
+        },
+        {
+            "contractId": "C0000015012",
+            "id": "CP000013",
+            "price": 65,
+            "version": 1
+        }
+    ],
+    "displayName": "Jeans - Large5686",
+    "fixRiceSkuPromotionList": [
+        {
+            "id": "FRSP000001",
+            "priceTo": 375.26,
+            "rules": "id in (100,200)5180",
+            "version": 1
+        },
+        {
+            "id": "FRSP000008",
+            "priceTo": 40.01,
+            "rules": "id in (100,200)5187",
+            "version": 1
+        },
+        {
+            "id": "FRSP000014",
+            "priceTo": 82.61,
+            "rules": "id in (100,200)5193",
+            "version": 1
+        }
+    ],
+    "id": "S000004",
+    "inventoryList": [
+        {
+            "backorderable": 5,
+            "id": "I000002",
+            "preorderable": 635,
+            "stockLevel": 919415,
+            "version": 1
+        },
+        {
+            "backorderable": 19,
+            "id": "I000003",
+            "preorderable": 404,
+            "stockLevel": 573008,
+            "version": 1
+        },
+        {
+            "backorderable": 1,
+            "id": "I000007",
+            "preorderable": 1538,
+            "stockLevel": 427124,
+            "version": 1
+        }
+    ],
+    "product": {
+        "description": "The brand a great that has Roadester, Model S and Model X, Model 3 is in development5622",
+        "displayName": "Jeans5620",
+        "id": "P000001",
+        "origin": "US",
+        "version": 1
+    },
+    "size": "Mediam",
+    "universalPriceList": [
+        {
+            "id": "UP000002",
+            "price": 405,
+            "version": 1
+        },
+        {
+            "id": "UP000003",
+            "price": 205,
+            "version": 1
+        },
+        {
+            "id": "UP000004",
+            "price": 235,
+            "version": 1
+        },
+        {
+            "id": "UP000005",
+            "price": 211,
+            "version": 1
+        },
+        {
+            "id": "UP000009",
+            "price": 223,
+            "version": 1
+        }
+    ],
+    "version": 1
+}

@@ -1,0 +1,42 @@
+{
+    "assignmentList": [
+        {
+            "assignedDate": "2016-12-22",
+            "id": "A000002",
+            "version": 1
+        },
+        {
+            "assignedDate": "2014-05-17",
+            "id": "A000004",
+            "version": 1
+        },
+        {
+            "assignedDate": "2016-11-28",
+            "id": "A000006",
+            "version": 1
+        },
+        {
+            "assignedDate": "2015-06-15",
+            "id": "A000010",
+            "version": 1
+        },
+        {
+            "assignedDate": "2014-01-30",
+            "id": "A000019",
+            "version": 1
+        },
+        {
+            "assignedDate": "2017-08-13",
+            "id": "A000020",
+            "version": 1
+        }
+    ],
+    "id": "A000004",
+    "role": {
+        "id": "R000002",
+        "roleName": "manager4641",
+        "version": 1
+    },
+    "roleName": "x manager4663",
+    "version": 1
+}

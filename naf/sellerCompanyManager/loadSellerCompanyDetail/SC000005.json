@@ -1,0 +1,55 @@
+{
+    "contractText": "x.doc",
+    "creditAccountList": [
+        {
+            "authorized": 32248.29,
+            "id": "CA000014",
+            "name": "Main Account Payable - 4453",
+            "remain": 27487.19,
+            "version": 1
+        }
+    ],
+    "custSvcRepList": [
+        {
+            "email": "pzhang@aaxischina.com",
+            "id": "CSR000013",
+            "passwd": "*******",
+            "version": 1
+        }
+    ],
+    "id": "SC000005",
+    "logo": "simple.jpg",
+    "name": "Snack Co. 4384",
+    "orderList": [
+        {
+            "id": "O000001",
+            "markAsDelete": true,
+            "title": "House Buiding - 4680",
+            "totalAmount": 1488789139.08,
+            "type": "QUOTE",
+            "version": 1
+        },
+        {
+            "id": "O000019",
+            "markAsDelete": true,
+            "title": "House Buiding - 4716",
+            "totalAmount": 1214211792.87,
+            "type": "QUOTE",
+            "version": 1
+        }
+    ],
+    "owner": "philip@aaxischina.com",
+    "profitCenterList": [
+        {
+            "id": "PC000016",
+            "name": "Cost Center - HR4435",
+            "version": 1
+        },
+        {
+            "id": "PC000019",
+            "name": "Cost Center - HR4438",
+            "version": 1
+        }
+    ],
+    "version": 1
+}

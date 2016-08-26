@@ -1,0 +1,26 @@
+{
+    "accessList": [
+        {
+            "id": "A000009",
+            "roleName": "x manager4668",
+            "version": 1
+        }
+    ],
+    "custSvcRepList": [
+        {
+            "email": "pzhang@aaxischina.com",
+            "id": "CSR000008",
+            "passwd": "*******",
+            "version": 1
+        },
+        {
+            "email": "pzhang@aaxischina.com",
+            "id": "CSR000009",
+            "passwd": "*******",
+            "version": 1
+        }
+    ],
+    "id": "R000001",
+    "roleName": "manager4640",
+    "version": 1
+}

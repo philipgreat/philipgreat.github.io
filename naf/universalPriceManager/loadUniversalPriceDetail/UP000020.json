@@ -1,0 +1,12 @@
+{
+    "id": "UP000020",
+    "price": 717,
+    "sku": {
+        "active": true,
+        "displayName": "Jeans - Large5680",
+        "id": "S000001",
+        "size": "Mediam",
+        "version": 1
+    },
+    "version": 1
+}

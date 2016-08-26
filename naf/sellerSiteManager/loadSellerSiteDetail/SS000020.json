@@ -1,0 +1,22 @@
+{
+    "catalog": {
+        "displayName": "Cloth5464",
+        "id": "C000003",
+        "sellerId": "SC0000015465",
+        "version": 1
+    },
+    "homePage": {
+        "id": "HP000003",
+        "title": "Home Page5284",
+        "ver": "V1.305285",
+        "version": 1
+    },
+    "id": "SS000020",
+    "marketing": {
+        "id": "ML000003",
+        "title": "Marketing Landing Page5322",
+        "version": 1
+    },
+    "siteId": "www.clienta.com5279",
+    "version": 1
+}

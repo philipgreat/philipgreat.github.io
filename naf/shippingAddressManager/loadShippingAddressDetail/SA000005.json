@@ -1,0 +1,23 @@
+{
+    "city": "Century City - 4478",
+    "country": "US",
+    "id": "SA000005",
+    "line1": "1900 AVE OF THE STARTS - 4476",
+    "line2": "Suite 555 - 4477",
+    "shippingGroupList": [
+        {
+            "amount": 4.76,
+            "id": "SG000009",
+            "name": "shipping to this address4908",
+            "version": 1
+        },
+        {
+            "amount": 3.74,
+            "id": "SG000019",
+            "name": "shipping to this address4918",
+            "version": 1
+        }
+    ],
+    "state": "PA",
+    "version": 1
+}

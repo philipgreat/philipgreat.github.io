@@ -1,0 +1,113 @@
+{
+    "bannerList": [
+        {
+            "action": "html()5421",
+            "id": "B000002",
+            "image": "banner.jpg",
+            "version": 1
+        },
+        {
+            "action": "html()5427",
+            "id": "B000008",
+            "image": "banner.jpg",
+            "version": 1
+        },
+        {
+            "action": "html()5429",
+            "id": "B000010",
+            "image": "banner.jpg",
+            "version": 1
+        }
+    ],
+    "footerList": [
+        {
+            "action": "html()5441",
+            "id": "F000002",
+            "image": "banner.jpg",
+            "version": 1
+        },
+        {
+            "action": "html()5452",
+            "id": "F000013",
+            "image": "banner.jpg",
+            "version": 1
+        },
+        {
+            "action": "html()5453",
+            "id": "F000014",
+            "image": "banner.jpg",
+            "version": 1
+        }
+    ],
+    "headerList": [
+        {
+            "action": "html()5361",
+            "id": "H000002",
+            "image": "banner.jpg",
+            "version": 1
+        },
+        {
+            "action": "html()5367",
+            "id": "H000008",
+            "image": "banner.jpg",
+            "version": 1
+        }
+    ],
+    "id": "HP000004",
+    "naviList": [
+        {
+            "action": "html()5385",
+            "id": "N000003",
+            "image": "navi-item.jpg5384",
+            "version": 1
+        },
+        {
+            "action": "html()5407",
+            "id": "N000014",
+            "image": "navi-item.jpg5406",
+            "version": 1
+        },
+        {
+            "action": "html()5409",
+            "id": "N000015",
+            "image": "navi-item.jpg5408",
+            "version": 1
+        },
+        {
+            "action": "html()5415",
+            "id": "N000018",
+            "image": "navi-item.jpg5414",
+            "version": 1
+        }
+    ],
+    "sellerSiteList": [
+        {
+            "id": "SS000004",
+            "siteId": "www.clienta.com5263",
+            "version": 1
+        },
+        {
+            "id": "SS000010",
+            "siteId": "www.clienta.com5269",
+            "version": 1
+        },
+        {
+            "id": "SS000014",
+            "siteId": "www.clienta.com5273",
+            "version": 1
+        },
+        {
+            "id": "SS000016",
+            "siteId": "www.clienta.com5275",
+            "version": 1
+        },
+        {
+            "id": "SS000017",
+            "siteId": "www.clienta.com5276",
+            "version": 1
+        }
+    ],
+    "title": "Home Page5286",
+    "ver": "V1.305287",
+    "version": 1
+}

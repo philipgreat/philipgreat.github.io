@@ -1,0 +1,27 @@
+{
+    "displayName": "Level Two Cat5521",
+    "id": "LTC000002",
+    "levelThreeCatList": [
+        {
+            "displayName": "Level Three Cat5545",
+            "id": "LTC000006",
+            "version": 1
+        },
+        {
+            "displayName": "Level Three Cat5553",
+            "id": "LTC000014",
+            "version": 1
+        },
+        {
+            "displayName": "Level Three Cat5555",
+            "id": "LTC000016",
+            "version": 1
+        }
+    ],
+    "parentCat": {
+        "displayName": "Level One Cat5502",
+        "id": "LOC000003",
+        "version": 1
+    },
+    "version": 1
+}

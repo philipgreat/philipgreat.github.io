@@ -1,0 +1,19 @@
+{
+    "city": "Century City - 4602",
+    "company": {
+        "founded": "2015-09-13",
+        "id": "BC000002",
+        "logo": "simple.jpg",
+        "name": "Aaxis - 4323",
+        "owner": "philip@aaxischina.com",
+        "priceList": "price99004324",
+        "rating": 200,
+        "version": 1
+    },
+    "country": "US",
+    "id": "BA000016",
+    "line1": "1900 AVE OF THE STARTS - 4600",
+    "line2": "Suite 555 - 4601",
+    "state": "VA",
+    "version": 1
+}

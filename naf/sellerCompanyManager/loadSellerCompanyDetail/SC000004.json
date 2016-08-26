@@ -1,0 +1,80 @@
+{
+    "contractText": "x.doc",
+    "creditAccountList": [
+        {
+            "authorized": 46.24,
+            "id": "CA000007",
+            "name": "Main Account Payable - 4446",
+            "remain": 99536.4,
+            "version": 1
+        }
+    ],
+    "custSvcRepList": [
+        {
+            "email": "pzhang@aaxischina.com",
+            "id": "CSR000006",
+            "passwd": "*******",
+            "version": 1
+        },
+        {
+            "email": "pzhang@aaxischina.com",
+            "id": "CSR000016",
+            "passwd": "*******",
+            "version": 1
+        },
+        {
+            "email": "pzhang@aaxischina.com",
+            "id": "CSR000020",
+            "passwd": "*******",
+            "version": 1
+        }
+    ],
+    "id": "SC000004",
+    "logo": "simple.jpg",
+    "name": "Snack Co. 4383",
+    "orderList": [
+        {
+            "id": "O000008",
+            "markAsDelete": true,
+            "title": "House Buiding - 4694",
+            "totalAmount": 1783272448.15,
+            "type": "ORDER",
+            "version": 1
+        },
+        {
+            "id": "O000009",
+            "markAsDelete": true,
+            "title": "House Buiding - 4696",
+            "totalAmount": 1065653983.35,
+            "type": "INVOICE",
+            "version": 1
+        },
+        {
+            "id": "O000020",
+            "markAsDelete": true,
+            "title": "House Buiding - 4718",
+            "totalAmount": 1667629411.85,
+            "type": "ORDER",
+            "version": 1
+        }
+    ],
+    "owner": "philip@aaxischina.com",
+    "profitCenterList": [
+        {
+            "id": "PC000002",
+            "name": "Cost Center - HR4421",
+            "version": 1
+        },
+        {
+            "id": "PC000004",
+            "name": "Cost Center - HR4423",
+            "version": 1
+        },
+        {
+            "id": "PC000020",
+            "name": "Cost Center - HR4439",
+            "version": 1
+        }
+    ],
+    "version": 1
+}

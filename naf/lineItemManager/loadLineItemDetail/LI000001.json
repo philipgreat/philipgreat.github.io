@@ -1,0 +1,17 @@
+{
+    "active": true,
+    "amount": 20.94,
+    "bizOrder": {
+        "id": "O000002",
+        "markAsDelete": true,
+        "title": "House Buiding - 4682",
+        "totalAmount": 1796923467.64,
+        "type": "ORDER",
+        "version": 1
+    },
+    "id": "LI000001",
+    "quantity": 10,
+    "skuId": "SKU4860",
+    "skuName": "iPhone - 4861",
+    "version": 1
+}

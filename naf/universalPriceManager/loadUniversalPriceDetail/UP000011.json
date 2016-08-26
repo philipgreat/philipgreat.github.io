@@ -1,0 +1,12 @@
+{
+    "id": "UP000011",
+    "price": 406,
+    "sku": {
+        "active": true,
+        "displayName": "Jeans - Large5682",
+        "id": "S000002",
+        "size": "Small",
+        "version": 1
+    },
+    "version": 1
+}

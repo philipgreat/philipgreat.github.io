@@ -1,0 +1,37 @@
+{
+    "accessList": [
+        {
+            "id": "A000017",
+            "roleName": "x manager4676",
+            "version": 1
+        },
+        {
+            "id": "A000020",
+            "roleName": "x manager4679",
+            "version": 1
+        }
+    ],
+    "custSvcRepList": [
+        {
+            "email": "pzhang@aaxischina.com",
+            "id": "CSR000002",
+            "passwd": "*******",
+            "version": 1
+        },
+        {
+            "email": "pzhang@aaxischina.com",
+            "id": "CSR000007",
+            "passwd": "*******",
+            "version": 1
+        },
+        {
+            "email": "pzhang@aaxischina.com",
+            "id": "CSR000011",
+            "passwd": "*******",
+            "version": 1
+        }
+    ],
+    "id": "R000005",
+    "roleName": "manager4644",
+    "version": 1
+}

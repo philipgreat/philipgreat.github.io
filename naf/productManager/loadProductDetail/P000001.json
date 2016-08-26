@@ -1,0 +1,56 @@
+{
+    "brand": {
+        "brandName": "Telsa Auto5720",
+        "description": "The brand a great that has Roadester, Model S and Model X, Model 3 is in development5721",
+        "id": "B000001",
+        "logo": "logo.jpg",
+        "version": 1
+    },
+    "description": "The brand a great that has Roadester, Model S and Model X, Model 3 is in development5622",
+    "displayName": "Jeans5620",
+    "id": "P000001",
+    "origin": "US",
+    "parentCat": {
+        "displayName": "Level N Cat5602",
+        "id": "LNC000003",
+        "version": 1
+    },
+    "skuList": [
+        {
+            "active": true,
+            "displayName": "Jeans - Large5684",
+            "id": "S000003",
+            "size": "Large",
+            "version": 1
+        },
+        {
+            "active": true,
+            "displayName": "Jeans - Large5686",
+            "id": "S000004",
+            "size": "Mediam",
+            "version": 1
+        },
+        {
+            "active": true,
+            "displayName": "Jeans - Large5688",
+            "id": "S000005",
+            "size": "Small",
+            "version": 1
+        },
+        {
+            "active": true,
+            "displayName": "Jeans - Large5702",
+            "id": "S000012",
+            "size": "Large",
+            "version": 1
+        },
+        {
+            "active": true,
+            "displayName": "Jeans - Large5710",
+            "id": "S000016",
+            "size": "Mediam",
+            "version": 1
+        }
+    ],
+    "version": 1
+}

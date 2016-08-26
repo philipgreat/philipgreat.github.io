@@ -1,0 +1,18 @@
+{
+    "catalog": {
+        "displayName": "Cloth5466",
+        "id": "C000004",
+        "sellerId": "SC0000015467",
+        "version": 1
+    },
+    "displayName": "Level One Cat5502",
+    "id": "LOC000003",
+    "levelTwoCatList": [
+        {
+            "displayName": "Level Two Cat5521",
+            "id": "LTC000002",
+            "version": 1
+        }
+    ],
+    "version": 1
+}

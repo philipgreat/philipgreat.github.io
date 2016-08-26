@@ -1,0 +1,91 @@
+{
+    "bannerList": [
+        {
+            "action": "html()5420",
+            "id": "B000001",
+            "image": "banner.jpg",
+            "version": 1
+        },
+        {
+            "action": "html()5425",
+            "id": "B000006",
+            "image": "banner.jpg",
+            "version": 1
+        },
+        {
+            "action": "html()5433",
+            "id": "B000014",
+            "image": "banner.jpg",
+            "version": 1
+        },
+        {
+            "action": "html()5439",
+            "id": "B000020",
+            "image": "banner.jpg",
+            "version": 1
+        }
+    ],
+    "footerList": [
+        {
+            "action": "html()5446",
+            "id": "F000007",
+            "image": "banner.jpg",
+            "version": 1
+        },
+        {
+            "action": "html()5451",
+            "id": "F000012",
+            "image": "banner.jpg",
+            "version": 1
+        }
+    ],
+    "headerList": [
+        {
+            "action": "html()5362",
+            "id": "H000003",
+            "image": "banner.jpg",
+            "version": 1
+        },
+        {
+            "action": "html()5378",
+            "id": "H000019",
+            "image": "banner.jpg",
+            "version": 1
+        }
+    ],
+    "id": "HP000002",
+    "naviList": [
+        {
+            "action": "html()5413",
+            "id": "N000017",
+            "image": "navi-item.jpg5412",
+            "version": 1
+        },
+        {
+            "action": "html()5417",
+            "id": "N000019",
+            "image": "navi-item.jpg5416",
+            "version": 1
+        }
+    ],
+    "sellerSiteList": [
+        {
+            "id": "SS000005",
+            "siteId": "www.clienta.com5264",
+            "version": 1
+        },
+        {
+            "id": "SS000006",
+            "siteId": "www.clienta.com5265",
+            "version": 1
+        },
+        {
+            "id": "SS000009",
+            "siteId": "www.clienta.com5268",
+            "version": 1
+        }
+    ],
+    "title": "Home Page5282",
+    "ver": "V1.305283",
+    "version": 1
+}

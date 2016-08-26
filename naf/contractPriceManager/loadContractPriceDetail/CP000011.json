@@ -1,0 +1,13 @@
+{
+    "contractId": "C0000015010",
+    "id": "CP000011",
+    "price": 61,
+    "sku": {
+        "active": true,
+        "displayName": "Jeans - Large5684",
+        "id": "S000003",
+        "size": "Large",
+        "version": 1
+    },
+    "version": 1
+}

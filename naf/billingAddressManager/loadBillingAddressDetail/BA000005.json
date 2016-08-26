@@ -1,0 +1,63 @@
+{
+    "city": "Century City - 4558",
+    "company": {
+        "founded": "2014-01-08",
+        "id": "BC000001",
+        "logo": "simple.jpg",
+        "name": "Aaxis - 4320",
+        "owner": "philip@aaxischina.com",
+        "priceList": "price99004321",
+        "rating": 10,
+        "version": 1
+    },
+    "country": "US",
+    "id": "BA000005",
+    "line1": "1900 AVE OF THE STARTS - 4556",
+    "line2": "Suite 555 - 4557",
+    "paymentGroupList": [
+        {
+            "cardNumber": "4111 1111 1111 - 4923",
+            "id": "PG000002",
+            "name": "visa card ending - 4922",
+            "version": 1
+        },
+        {
+            "cardNumber": "4111 1111 1111 - 4929",
+            "id": "PG000005",
+            "name": "visa card ending - 4928",
+            "version": 1
+        },
+        {
+            "cardNumber": "4111 1111 1111 - 4931",
+            "id": "PG000006",
+            "name": "visa card ending - 4930",
+            "version": 1
+        },
+        {
+            "cardNumber": "4111 1111 1111 - 4935",
+            "id": "PG000008",
+            "name": "visa card ending - 4934",
+            "version": 1
+        },
+        {
+            "cardNumber": "4111 1111 1111 - 4949",
+            "id": "PG000015",
+            "name": "visa card ending - 4948",
+            "version": 1
+        },
+        {
+            "cardNumber": "4111 1111 1111 - 4951",
+            "id": "PG000016",
+            "name": "visa card ending - 4950",
+            "version": 1
+        },
+        {
+            "cardNumber": "4111 1111 1111 - 4953",
+            "id": "PG000017",
+            "name": "visa card ending - 4952",
+            "version": 1
+        }
+    ],
+    "state": "LA",
+    "version": 1
+}

@@ -1,0 +1,33 @@
+{
+    "catalog": {
+        "displayName": "Cloth5462",
+        "id": "C000002",
+        "sellerId": "SC0000015463",
+        "version": 1
+    },
+    "displayName": "Level One Cat5503",
+    "id": "LOC000004",
+    "levelTwoCatList": [
+        {
+            "displayName": "Level Two Cat5526",
+            "id": "LTC000007",
+            "version": 1
+        },
+        {
+            "displayName": "Level Two Cat5531",
+            "id": "LTC000012",
+            "version": 1
+        },
+        {
+            "displayName": "Level Two Cat5536",
+            "id": "LTC000017",
+            "version": 1
+        },
+        {
+            "displayName": "Level Two Cat5539",
+            "id": "LTC000020",
+            "version": 1
+        }
+    ],
+    "version": 1
+}

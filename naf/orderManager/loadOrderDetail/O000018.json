@@ -1,0 +1,44 @@
+{
+    "buyer": {
+        "founded": "2015-05-19",
+        "id": "BC000003",
+        "logo": "simple.jpg",
+        "name": "Aaxis - 4326",
+        "owner": "philip@aaxischina.com",
+        "priceList": "price99004327",
+        "rating": 10,
+        "version": 1
+    },
+    "costCenter": {
+        "id": "CC000003",
+        "name": "Cost Center - HR4402",
+        "password": "*********",
+        "version": 1
+    },
+    "id": "O000018",
+    "markAsDelete": true,
+    "profitCenter": {
+        "id": "PC000002",
+        "name": "Cost Center - HR4421",
+        "version": 1
+    },
+    "recurringInfo": {
+        "cronExpr": "*****084721",
+        "id": "RI000001",
+        "name": "Order Recurring - 4720",
+        "nextTime": "2014-03-03",
+        "version": 1
+    },
+    "seller": {
+        "contractText": "x.doc",
+        "id": "SC000003",
+        "logo": "simple.jpg",
+        "name": "Snack Co. 4382",
+        "owner": "philip@aaxischina.com",
+        "version": 1
+    },
+    "title": "House Buiding - 4714",
+    "totalAmount": 0.25832710461002095,
+    "type": "INVOICE",
+    "version": 1
+}

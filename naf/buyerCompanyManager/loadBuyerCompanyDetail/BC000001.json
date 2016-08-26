@@ -1,0 +1,197 @@
+{
+    "billingAddressList": [
+        {
+            "city": "Century City - 4542",
+            "country": "US",
+            "id": "BA000001",
+            "line1": "1900 AVE OF THE STARTS - 4540",
+            "line2": "Suite 555 - 4541",
+            "state": "VA",
+            "version": 1
+        },
+        {
+            "city": "Century City - 4558",
+            "country": "US",
+            "id": "BA000005",
+            "line1": "1900 AVE OF THE STARTS - 4556",
+            "line2": "Suite 555 - 4557",
+            "state": "LA",
+            "version": 1
+        },
+        {
+            "city": "Century City - 4574",
+            "country": "US",
+            "id": "BA000009",
+            "line1": "1900 AVE OF THE STARTS - 4572",
+            "line2": "Suite 555 - 4573",
+            "state": "PA",
+            "version": 1
+        },
+        {
+            "city": "Century City - 4578",
+            "country": "US",
+            "id": "BA000010",
+            "line1": "1900 AVE OF THE STARTS - 4576",
+            "line2": "Suite 555 - 4577",
+            "state": "VA",
+            "version": 1
+        },
+        {
+            "city": "Century City - 4590",
+            "country": "US",
+            "id": "BA000013",
+            "line1": "1900 AVE OF THE STARTS - 4588",
+            "line2": "Suite 555 - 4589",
+            "state": "VA",
+            "version": 1
+        },
+        {
+            "city": "Century City - 4598",
+            "country": "US",
+            "id": "BA000015",
+            "line1": "1900 AVE OF THE STARTS - 4596",
+            "line2": "Suite 555 - 4597",
+            "state": "PA",
+            "version": 1
+        },
+        {
+            "city": "Century City - 4610",
+            "country": "US",
+            "id": "BA000018",
+            "line1": "1900 AVE OF THE STARTS - 4608",
+            "line2": "Suite 555 - 4609",
+            "state": "PA",
+            "version": 1
+        },
+        {
+            "city": "Century City - 4614",
+            "country": "US",
+            "id": "BA000019",
+            "line1": "1900 AVE OF THE STARTS - 4612",
+            "line2": "Suite 555 - 4613",
+            "state": "VA",
+            "version": 1
+        }
+    ],
+    "costCenterList": [
+        {
+            "id": "CC000002",
+            "name": "Cost Center - HR4401",
+            "password": "*********",
+            "version": 1
+        },
+        {
+            "id": "CC000013",
+            "name": "Cost Center - HR4412",
+            "password": "*********",
+            "version": 1
+        }
+    ],
+    "creditAccountList": [
+        {
+            "authorized": 7665.81,
+            "id": "CA000012",
+            "name": "Main Account Payable - 4451",
+            "remain": 96707.0,
+            "version": 1
+        },
+        {
+            "authorized": 38114.26,
+            "id": "CA000016",
+            "name": "Main Account Payable - 4455",
+            "remain": 51509.55,
+            "version": 1
+        },
+        {
+            "authorized": 39105.29,
+            "id": "CA000017",
+            "name": "Main Account Payable - 4456",
+            "remain": 32131.49,
+            "version": 1
+        }
+    ],
+    "employeeList": [
+        {
+            "cellPhone": "13878786655",
+            "email": "philip@aaxischina.com",
+            "id": "E000004",
+            "name": "Philip4623",
+            "passwd": "*******",
+            "version": 1
+        },
+        {
+            "cellPhone": "13878786655",
+            "email": "philip@aaxischina.com",
+            "id": "E000010",
+            "name": "Philip4629",
+            "passwd": "*******",
+            "version": 1
+        },
+        {
+            "cellPhone": "13878786655",
+            "email": "philip@aaxischina.com",
+            "id": "E000015",
+            "name": "Philip4634",
+            "passwd": "*******",
+            "version": 1
+        },
+        {
+            "cellPhone": "13878786655",
+            "email": "philip@aaxischina.com",
+            "id": "E000016",
+            "name": "Philip4635",
+            "passwd": "*******",
+            "version": 1
+        },
+        {
+            "cellPhone": "13878786655",
+            "email": "philip@aaxischina.com",
+            "id": "E000018",
+            "name": "Philip4637",
+            "passwd": "*******",
+            "version": 1
+        },
+        {
+            "cellPhone": "13878786655",
+            "email": "philip@aaxischina.com",
+            "id": "E000019",
+            "name": "Philip4638",
+            "passwd": "*******",
+            "version": 1
+        },
+        {
+            "cellPhone": "13878786655",
+            "email": "philip@aaxischina.com",
+            "id": "E000020",
+            "name": "Philip4639",
+            "passwd": "*******",
+            "version": 1
+        }
+    ],
+    "founded": "2014-01-08",
+    "id": "BC000001",
+    "logo": "simple.jpg",
+    "name": "Aaxis - 4320",
+    "orderList": [
+        {
+            "id": "O000012",
+            "markAsDelete": true,
+            "title": "House Buiding - 4702",
+            "totalAmount": 637746291.28,
+            "type": "INVOICE",
+            "version": 1
+        },
+        {
+            "id": "O000015",
+            "markAsDelete": true,
+            "title": "House Buiding - 4708",
+            "totalAmount": 1080366099.43,
+            "type": "INVOICE",
+            "version": 1
+        }
+    ],
+    "owner": "philip@aaxischina.com",
+    "priceList": "price99004321",
+    "rating": 10,
+    "version": 1
+}

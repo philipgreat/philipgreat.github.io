@@ -1,0 +1,163 @@
+{
+    "bannerList": [
+        {
+            "action": "html()5423",
+            "id": "B000004",
+            "image": "banner.jpg",
+            "version": 1
+        },
+        {
+            "action": "html()5424",
+            "id": "B000005",
+            "image": "banner.jpg",
+            "version": 1
+        },
+        {
+            "action": "html()5426",
+            "id": "B000007",
+            "image": "banner.jpg",
+            "version": 1
+        },
+        {
+            "action": "html()5428",
+            "id": "B000009",
+            "image": "banner.jpg",
+            "version": 1
+        },
+        {
+            "action": "html()5431",
+            "id": "B000012",
+            "image": "banner.jpg",
+            "version": 1
+        },
+        {
+            "action": "html()5432",
+            "id": "B000013",
+            "image": "banner.jpg",
+            "version": 1
+        },
+        {
+            "action": "html()5436",
+            "id": "B000017",
+            "image": "banner.jpg",
+            "version": 1
+        }
+    ],
+    "footerList": [
+        {
+            "action": "html()5443",
+            "id": "F000004",
+            "image": "banner.jpg",
+            "version": 1
+        },
+        {
+            "action": "html()5450",
+            "id": "F000011",
+            "image": "banner.jpg",
+            "version": 1
+        },
+        {
+            "action": "html()5455",
+            "id": "F000016",
+            "image": "banner.jpg",
+            "version": 1
+        },
+        {
+            "action": "html()5458",
+            "id": "F000019",
+            "image": "banner.jpg",
+            "version": 1
+        }
+    ],
+    "headerList": [
+        {
+            "action": "html()5371",
+            "id": "H000012",
+            "image": "banner.jpg",
+            "version": 1
+        },
+        {
+            "action": "html()5373",
+            "id": "H000014",
+            "image": "banner.jpg",
+            "version": 1
+        },
+        {
+            "action": "html()5374",
+            "id": "H000015",
+            "image": "banner.jpg",
+            "version": 1
+        },
+        {
+            "action": "html()5375",
+            "id": "H000016",
+            "image": "banner.jpg",
+            "version": 1
+        },
+        {
+            "action": "html()5377",
+            "id": "H000018",
+            "image": "banner.jpg",
+            "version": 1
+        }
+    ],
+    "id": "HP000001",
+    "naviList": [
+        {
+            "action": "html()5381",
+            "id": "N000001",
+            "image": "navi-item.jpg5380",
+            "version": 1
+        },
+        {
+            "action": "html()5383",
+            "id": "N000002",
+            "image": "navi-item.jpg5382",
+            "version": 1
+        },
+        {
+            "action": "html()5395",
+            "id": "N000008",
+            "image": "navi-item.jpg5394",
+            "version": 1
+        },
+        {
+            "action": "html()5399",
+            "id": "N000010",
+            "image": "navi-item.jpg5398",
+            "version": 1
+        },
+        {
+            "action": "html()5403",
+            "id": "N000012",
+            "image": "navi-item.jpg5402",
+            "version": 1
+        },
+        {
+            "action": "html()5411",
+            "id": "N000016",
+            "image": "navi-item.jpg5410",
+            "version": 1
+        }
+    ],
+    "sellerSiteList": [
+        {
+            "id": "SS000003",
+            "siteId": "www.clienta.com5262",
+            "version": 1
+        },
+        {
+            "id": "SS000007",
+            "siteId": "www.clienta.com5266",
+            "version": 1
+        },
+        {
+            "id": "SS000018",
+            "siteId": "www.clienta.com5277",
+            "version": 1
+        }
+    ],
+    "title": "Home Page5280",
+    "ver": "V1.305281",
+    "version": 1
+}

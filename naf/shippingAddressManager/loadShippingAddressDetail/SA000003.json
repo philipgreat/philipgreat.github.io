@@ -1,0 +1,47 @@
+{
+    "city": "Century City - 4470",
+    "country": "US",
+    "id": "SA000003",
+    "line1": "1900 AVE OF THE STARTS - 4468",
+    "line2": "Suite 555 - 4469",
+    "shippingGroupList": [
+        {
+            "amount": 4.33,
+            "id": "SG000001",
+            "name": "shipping to this address4900",
+            "version": 1
+        },
+        {
+            "amount": 0.8,
+            "id": "SG000006",
+            "name": "shipping to this address4905",
+            "version": 1
+        },
+        {
+            "amount": 2.28,
+            "id": "SG000007",
+            "name": "shipping to this address4906",
+            "version": 1
+        },
+        {
+            "amount": 2.8,
+            "id": "SG000008",
+            "name": "shipping to this address4907",
+            "version": 1
+        },
+        {
+            "amount": 5.75,
+            "id": "SG000011",
+            "name": "shipping to this address4910",
+            "version": 1
+        },
+        {
+            "amount": 1.65,
+            "id": "SG000015",
+            "name": "shipping to this address4914",
+            "version": 1
+        }
+    ],
+    "state": "VA",
+    "version": 1
+}

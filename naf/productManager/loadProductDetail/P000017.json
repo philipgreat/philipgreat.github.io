@@ -1,0 +1,19 @@
+{
+    "brand": {
+        "brandName": "Telsa Auto5728",
+        "description": "The brand a great that has Roadester, Model S and Model X, Model 3 is in development5729",
+        "id": "B000005",
+        "logo": "logo.jpg",
+        "version": 1
+    },
+    "description": "The brand a great that has Roadester, Model S and Model X, Model 3 is in development5670",
+    "displayName": "Jeans5668",
+    "id": "P000017",
+    "origin": "US",
+    "parentCat": {
+        "displayName": "Level N Cat5601",
+        "id": "LNC000002",
+        "version": 1
+    },
+    "version": 1
+}

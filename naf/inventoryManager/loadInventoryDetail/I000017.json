@@ -1,0 +1,21 @@
+{
+    "backorderable": 14,
+    "id": "I000017",
+    "preorderable": 106,
+    "sku": {
+        "active": true,
+        "displayName": "Jeans - Large5682",
+        "id": "S000002",
+        "size": "Small",
+        "version": 1
+    },
+    "stockLevel": 257184,
+    "version": 1,
+    "warehouse": {
+        "displayName": "LA Century City Warehouse5212",
+        "id": "W000005",
+        "location": "1900 AVE OF THE STARS - TOO EXPENSIVE5213",
+        "owner": "duc@aaxiscommerce.com5214",
+        "version": 1
+    }
+}

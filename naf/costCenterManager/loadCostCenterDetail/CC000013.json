@@ -1,0 +1,16 @@
+{
+    "belongsTo": {
+        "founded": "2014-01-08",
+        "id": "BC000001",
+        "logo": "simple.jpg",
+        "name": "Aaxis - 4320",
+        "owner": "philip@aaxischina.com",
+        "priceList": "price99004321",
+        "rating": 10,
+        "version": 1
+    },
+    "id": "CC000013",
+    "name": "Cost Center - HR4412",
+    "password": "*********",
+    "version": 1
+}

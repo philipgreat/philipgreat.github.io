@@ -1,0 +1,18 @@
+{
+    "cellPhone": "13878786655",
+    "company": {
+        "founded": "2015-05-19",
+        "id": "BC000003",
+        "logo": "simple.jpg",
+        "name": "Aaxis - 4326",
+        "owner": "philip@aaxischina.com",
+        "priceList": "price99004327",
+        "rating": 10,
+        "version": 1
+    },
+    "email": "philip@aaxischina.com",
+    "id": "E000007",
+    "name": "Philip4626",
+    "passwd": "*******",
+    "version": 1
+}

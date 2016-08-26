@@ -1,0 +1,80 @@
+{
+    "accessList": [
+        {
+            "id": "A000001",
+            "roleName": "x manager4660",
+            "version": 1
+        },
+        {
+            "id": "A000004",
+            "roleName": "x manager4663",
+            "version": 1
+        },
+        {
+            "id": "A000007",
+            "roleName": "x manager4666",
+            "version": 1
+        },
+        {
+            "id": "A000012",
+            "roleName": "x manager4671",
+            "version": 1
+        },
+        {
+            "id": "A000013",
+            "roleName": "x manager4672",
+            "version": 1
+        },
+        {
+            "id": "A000014",
+            "roleName": "x manager4673",
+            "version": 1
+        },
+        {
+            "id": "A000015",
+            "roleName": "x manager4674",
+            "version": 1
+        }
+    ],
+    "custSvcRepList": [
+        {
+            "email": "pzhang@aaxischina.com",
+            "id": "CSR000004",
+            "passwd": "*******",
+            "version": 1
+        },
+        {
+            "email": "pzhang@aaxischina.com",
+            "id": "CSR000005",
+            "passwd": "*******",
+            "version": 1
+        },
+        {
+            "email": "pzhang@aaxischina.com",
+            "id": "CSR000006",
+            "passwd": "*******",
+            "version": 1
+        },
+        {
+            "email": "pzhang@aaxischina.com",
+            "id": "CSR000012",
+            "passwd": "*******",
+            "version": 1
+        },
+        {
+            "email": "pzhang@aaxischina.com",
+            "id": "CSR000016",
+            "passwd": "*******",
+            "version": 1
+        },
+        {
+            "email": "pzhang@aaxischina.com",
+            "id": "CSR000020",
+            "passwd": "*******",
+            "version": 1
+        }
+    ],
+    "id": "R000002",
+    "roleName": "manager4641",
+    "version": 1
+}

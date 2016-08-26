@@ -1,0 +1,55 @@
+{
+    "displayName": "Cloth5462",
+    "id": "C000002",
+    "levelOneCatList": [
+        {
+            "displayName": "Level One Cat5501",
+            "id": "LOC000002",
+            "version": 1
+        },
+        {
+            "displayName": "Level One Cat5503",
+            "id": "LOC000004",
+            "version": 1
+        },
+        {
+            "displayName": "Level One Cat5504",
+            "id": "LOC000005",
+            "version": 1
+        },
+        {
+            "displayName": "Level One Cat5509",
+            "id": "LOC000010",
+            "version": 1
+        },
+        {
+            "displayName": "Level One Cat5510",
+            "id": "LOC000011",
+            "version": 1
+        }
+    ],
+    "sellerId": "SC0000015463",
+    "sellerSiteList": [
+        {
+            "id": "SS000001",
+            "siteId": "www.clienta.com5260",
+            "version": 1
+        },
+        {
+            "id": "SS000004",
+            "siteId": "www.clienta.com5263",
+            "version": 1
+        },
+        {
+            "id": "SS000013",
+            "siteId": "www.clienta.com5272",
+            "version": 1
+        },
+        {
+            "id": "SS000019",
+            "siteId": "www.clienta.com5278",
+            "version": 1
+        }
+    ],
+    "version": 1
+}

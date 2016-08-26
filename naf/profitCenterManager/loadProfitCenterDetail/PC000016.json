@@ -1,0 +1,13 @@
+{
+    "belongsTo": {
+        "contractText": "x.doc",
+        "id": "SC000005",
+        "logo": "simple.jpg",
+        "name": "Snack Co. 4384",
+        "owner": "philip@aaxischina.com",
+        "version": 1
+    },
+    "id": "PC000016",
+    "name": "Cost Center - HR4435",
+    "version": 1
+}

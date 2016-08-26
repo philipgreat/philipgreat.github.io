@@ -1,0 +1,21 @@
+{
+    "backorderable": 12,
+    "id": "I000016",
+    "preorderable": 843,
+    "sku": {
+        "active": true,
+        "displayName": "Jeans - Large5680",
+        "id": "S000001",
+        "size": "Mediam",
+        "version": 1
+    },
+    "stockLevel": 205842,
+    "version": 1,
+    "warehouse": {
+        "displayName": "LA Century City Warehouse5206",
+        "id": "W000003",
+        "location": "1900 AVE OF THE STARS - TOO EXPENSIVE5207",
+        "owner": "duc@aaxiscommerce.com5208",
+        "version": 1
+    }
+}
